@@ -45,6 +45,16 @@ _NOTE_:  The data set was provided
 4. Numbers of sales recorded
 5. Highest profit generated
 6. Create a column named "sales range" return "High sales" if the value is above average otherwise return "low sales".
+   
+## SKILLS CONCEPT ADOPTED
+Answering the questions above  involves manupulating and combining multiple formulas and functions
+for instance in question 1
+ **Sum Function** was used on the sales column and Profit column
+ for question 2
+ **Average Function** used after deriving in the total revenue in question 1.
+ for Qestion 3
+ 
+   
 
 
 
