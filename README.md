@@ -37,9 +37,14 @@ and their various syntax. The formula discussed are
 ## USING THE FUNCTIONS AND FORMULAS
 The function and formulas were used in calculuating the following.
 
-_NOTE_:The data set was provided
+_NOTE_:  The data set was provided
+
 1. Total Revenue and Profit Generated
-2. 
+2. average Revenue and Units sold for every order
+3. Total discount given in $
+4. Numbers of sales recorded
+5. Highest profit generated
+6. Create a column named "sales range" return "High sales" if the value is above average otherwise return "low sales".
 
 
 
