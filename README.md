@@ -5,5 +5,8 @@ In the ongoing bootcamp we were thought basic excel functions after which a task
 1.  To show employee who are freelancers and highlight one whose salary is above $10000.
 2.  split the employee full name in "first name" and "last name and check for duplicates and highlight if any.
 3.  Highliht any employee whose name begins with the letter "E" and Format the Column to show Highest salary in green and lowest in red backgroud respectively.
-
-
+  ## SKILLS ADOPTED
+- Conditional Formatting
+- Filtering
+- Test-to- column
+  ### DATA
