@@ -97,18 +97,31 @@ for instance in question 1
    ## SKILLS USED
    For question 1.
 
-    "AverageIF" was used with "paseo" as the criteria and sales rang indicated.
+   "AverageIF" was used with "paseo" as the criteria and sales rang indicated.
 
    Question 2.
 
    "Countif" was used to calculate sales in government and midmartket seperately and was later sum up.
    
-  Question 3.
+    Question 3.
 
-  "SumIFS" concept was explored with "montana and canada" as the special criteria with reference to sales and country columns.
+    "SumIFS" concept was explored with "montana and canada" as the special criteria with reference to sales and country columns.
 
-  
+   Question 4
 
+   "Vlookup Function"  was the appropriate function
+
+   Question 5
+
+   "SumIFS" is the function because it has criteria "December"
+
+   ![](task4.png)
+
+
+   ![](task5.png)
+
+## CONCLUSION
+It has been an exciting seession, knowing the basics,advance functions and formulars of excel for data analysis is great and looking forward to learn more as the bootcamp advance.
    
 
 
