@@ -47,12 +47,34 @@ _NOTE_:  The data set was provided
 6. Create a column named "sales range" return "High sales" if the value is above average otherwise return "low sales".
    
 ## SKILLS CONCEPT ADOPTED
-Answering the questions above  involves manupulating and combining multiple formulas and functions
+Answering the questions above  involves manupulating and combining multiple formulas and functions and syntax.
+
 for instance in question 1
- **Sum Function** was used on the sales column and Profit column
+
+ **Sum Function** was used on the sales column and Profit column.
+ 
  for question 2
+ 
  **Average Function** used after deriving in the total revenue in question 1.
+ 
  for Qestion 3
+
+ **Sum Function** was explore on the discount column with specified range
+
+ For Question 4
+
+ **Count Function** was adopted on the sales record column
+
+ Question 5
+
+ **Max Function** was used on Profit column
+ 
+ for Question 6
+
+**Sales Range** Column was created and averaged of the sales calculated and the "IF" function deplored.
+
+
+![](task4.png)
  
    
 
