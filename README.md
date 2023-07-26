@@ -20,9 +20,20 @@ For the second question,the employee full names was splited into First and last 
 
 for last task, conditional formatting was used to highlite employees names with has the letter **E** in Yellow and indicate highesst salary earner in green and lowest in red respectively.
 
-![](Task3.png)
+![](task3.png)
 
-The scond session of the bootcamp
+In the scond session of the bootcamp we discussed **functions and formulas**
+and their various syntax. the formula discussed are 
+sum,
+average,
+count,
+min,
+max,
+concatenate,
+date, 
+left
+and 
+right.
 
 
 
