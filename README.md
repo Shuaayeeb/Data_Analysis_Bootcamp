@@ -16,11 +16,11 @@ In the ongoing bootcamp we were thought basic excel functions after which a task
 
 For the second question,the employee full names was splited into First and last names using the **text-to-Column** function and using **conditional formatting** to highlite duplicates.
 
-![](Screenshot_Task2.1.png)
+![](task2.png)
 
 for last task, conditional formatting was used to highlite employees names with has the letter **E** in Yellow and indicate highesst salary earner in green and lowest in red respectively.
 
-![](screenshot_Task2.2.png)
+![](Task3.png)
 
 The scond session of the bootcamp
 
