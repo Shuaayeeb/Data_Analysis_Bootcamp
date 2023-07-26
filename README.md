@@ -77,7 +77,22 @@ for instance in question 1
 ![](task4.png)
 
  
- In the third session of the class we talked about advanced function which are more complex and usually use for indepth data analysis. some of the functions are 
+ In the third session of the class we talked about **advanced function and condition** which are more complex and usually use for indepth data analysis. some of the functions.
+ 
+ - SumIF and SumIFS
+ - AverageIF and AverageIFS
+ - CountIF and CountIFS
+ - Vlookup
+ - Xlookup
+ - Hlookup
+
+   ## TASK GIVEN
+   we were asked to calculate the following below using the advance function and condition.
+   1. Average Revenue generated from each sales of paseo.
+   2. Number of slaes made in government and Midmarket.
+   3. Total revenue generated from the sales of montana in canada
+   4. In which country was the highest unit of good sold.
+   5. what is the total profit made in december.
 
 
 
