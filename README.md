@@ -47,7 +47,7 @@ _NOTE_:  The data set was provided
 6. Create a column named "sales range" return "High sales" if the value is above average otherwise return "low sales".
    
 ## SKILLS CONCEPT ADOPTED
-Answering the questions above  involves manupulating and combining multiple formulas and functions and syntax.
+Answering the questions above  involves manipulating and combining multiple formulas and functions and syntax.
 
 for instance in question 1
 
@@ -75,8 +75,10 @@ for instance in question 1
 
 
 ![](task4.png)
+
  
-   
+ In the third session of the class we talked about advanced function which are more complex and usually use for indepth data analysis. some of the functions are 
+
 
 
 
