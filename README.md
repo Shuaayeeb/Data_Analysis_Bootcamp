@@ -9,4 +9,11 @@ In the ongoing bootcamp we were thought basic excel functions after which a task
 - Conditional Formatting
 - Filtering
 - Test-to- column
-  ### DATA
+- ## DATA
+  To carry out the tasks above, filter function was applied acrosss the header to indicate employee working as freelancers and those whose salary is above $10000.
+
+![](Screenshot_task1.png)
+
+  
+  ![](Screenshot_task1.png)
+  
