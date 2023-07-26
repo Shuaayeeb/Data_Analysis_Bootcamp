@@ -23,17 +23,24 @@ for last task, conditional formatting was used to highlite employees names with 
 ![](task3.png)
 
 In the scond session of the bootcamp we discussed **functions and formulas**
-and their various syntax. the formula discussed are 
-sum,
-average,
-count,
-min,
-max,
-concatenate,
-date, 
-left
-and 
-right.
+and their various syntax. The formula discussed are 
+- sum,
+- average
+- count
+- min
+- max
+- concatenate
+- date 
+- left
+- right.
+
+## USING THE FUNCTIONS AND FORMULAS
+The function and formulas were used in calculuating the following.
+
+_NOTE_:The data set was provided
+1. Total Revenue and Profit Generated
+2. 
+
 
 
 
