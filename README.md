@@ -14,6 +14,7 @@ In the ongoing bootcamp we were thought basic excel functions after which a task
 
 ![](Screenshot_task1.png)
 
-  
-  ![](Screenshot_task1.png)
+For the second question,the employee full names was splited into First and last names using the **text-to-Column** function and using **conditional formatting ** to highlite duplicates.
+
+![](screenshot_1.2.png)
   
