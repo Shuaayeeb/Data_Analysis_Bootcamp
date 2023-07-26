@@ -22,6 +22,8 @@ for last task, conditional formatting was used to highlite employees names with 
 
 ![](screenshot_Task2.2.png)
 
+The scond session of the bootcamp
+
 
 
   
