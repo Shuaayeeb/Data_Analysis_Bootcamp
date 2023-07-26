@@ -94,6 +94,23 @@ for instance in question 1
    4. In which country was the highest unit of good sold.
    5. what is the total profit made in december.
 
+   ## SKILLS USED
+   For question 1.
+
+    "AverageIF" was used with "paseo" as the criteria and sales rang indicated.
+
+   Question 2.
+
+   "Countif" was used to calculate sales in government and midmartket seperately and was later sum up.
+   
+  Question 3.
+
+  "SumIFS" concept was explored with "montana and canada" as the special criteria with reference to sales and country columns.
+
+  
+
+   
+
 
 
 
