@@ -12,6 +12,21 @@ In the ongoing bootcamp we were thought basic excel functions after which a task
 - ## DATA
   To carry out the tasks above, filter function was applied acrosss the header to indicate employee working as freelancers and those whose salary is above $10000.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
 ![](Screenshot_task1.png)
 
 For the second question,the employee full names was splited into First and last names using the **text-to-Column** function and using **conditional formatting ** to highlite duplicates.
