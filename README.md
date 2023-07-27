@@ -20,7 +20,7 @@ For the second question,the employee full names was splited into First and last 
 
 for last task, conditional formatting was used to highlite employees names with has the letter **E** in Yellow and indicate highesst salary earner in green and lowest in red respectively.
 
-![](task3.png)
+![](new2.png)
 
 In the scond session of the bootcamp we discussed **functions and formulas**
 and their various syntax. The formula discussed are 
@@ -74,7 +74,7 @@ for instance in question 1
 **Sales Range** Column was created and averaged of the sales calculated and the "IF" function deplored.
 
 
-![](task4.png)
+![](new2.png)
 
  
  In the third session of the class we talked about **advanced function and condition** which are more complex and usually use for indepth data analysis. some of the functions.
@@ -115,10 +115,10 @@ for instance in question 1
 
    "SumIFS" is the function because it has criteria "December"
 
-   ![](task4.png)
+   ![](new3.png)
 
 
-   ![](task5.png)
+   ![](new4.png)
 
 ## CONCLUSION
 It has been an exciting seession, knowing the basics,advance functions and formulars of excel for data analysis is great and looking forward to learn more as the bootcamp advance.
